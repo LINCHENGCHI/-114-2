@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\finaltest_3\bin\Debug\net10.0\finaltest_3.exe
+C:\Users\user\Desktop\finaltest_3\bin\Debug\net10.0\finaltest_3.deps.json
+C:\Users\user\Desktop\finaltest_3\bin\Debug\net10.0\finaltest_3.runtimeconfig.json
+C:\Users\user\Desktop\finaltest_3\bin\Debug\net10.0\finaltest_3.dll
+C:\Users\user\Desktop\finaltest_3\bin\Debug\net10.0\finaltest_3.pdb
+C:\Users\user\Desktop\finaltest_3\obj\Debug\net10.0\finaltest_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\finaltest_3\obj\Debug\net10.0\finaltest_3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\finaltest_3\obj\Debug\net10.0\finaltest_3.AssemblyInfo.cs
+C:\Users\user\Desktop\finaltest_3\obj\Debug\net10.0\finaltest_3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\finaltest_3\obj\Debug\net10.0\finaltest_3.dll
+C:\Users\user\Desktop\finaltest_3\obj\Debug\net10.0\refint\finaltest_3.dll
+C:\Users\user\Desktop\finaltest_3\obj\Debug\net10.0\finaltest_3.pdb
+C:\Users\user\Desktop\finaltest_3\obj\Debug\net10.0\finaltest_3.genruntimeconfig.cache
+C:\Users\user\Desktop\finaltest_3\obj\Debug\net10.0\ref\finaltest_3.dll

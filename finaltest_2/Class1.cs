@@ -4,13 +4,6 @@ public class Student
 {
 	public int Mid;
 	public int Final;
-	public int Plus(int a , int b)
-	{
-		int temp;
-		temp = a + b;
-		return temp;
-	}
-
 
 	public Student(int m,int f)
 	{
